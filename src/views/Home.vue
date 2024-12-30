@@ -9,7 +9,7 @@
 
 <template>
 	<main>
-		<div class="">home</div>
+		<div class="">首页</div>
         <ElButton>Button</ElButton>
         <Sfc />
         <Api />
